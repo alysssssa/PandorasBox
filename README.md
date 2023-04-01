@@ -2,3 +2,4 @@
 
 - **Ray Tracing in One Weekend** by Peter Shirley: https://raytracing.github.io/
 - **Polygon Mesh Processing** by Mario Botsch et al.: http://www.pmp-book.org/
+- **SGP Summer School Presentations** on geometry processing: http://school.geometryprocessing.org/index.html
