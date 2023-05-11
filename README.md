@@ -18,3 +18,4 @@
 - **High-Dimensional Data Analysis with Low-Dimensional Models**: https://book-wright-ma.github.io/Book-WM-20210422.pdf
 - **Spatial Index**: https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
 - **Triangle** - A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator by Jonathan Richard Shewchuk: http://www.cs.cmu.edu/~quake/triangle.html
+- **Collision Detection on the GPU**: https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/ 
