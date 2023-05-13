@@ -4,6 +4,7 @@
 #### Graphics:
 - **Ray Tracing in One Weekend** by Peter Shirley: https://raytracing.github.io/
 - **The Graphics Codex**: http://graphicscodex.com/
+- **ACM Transactions on Graphics** resources: https://dl.acm.org/journal/tog/bib-look
 
 #### Geometry processing:
 - **Polygon Mesh Processing** by Mario Botsch et al.: http://www.pmp-book.org/
@@ -18,4 +19,3 @@
 - **High-Dimensional Data Analysis with Low-Dimensional Models**: https://book-wright-ma.github.io/Book-WM-20210422.pdf
 - **Spatial Index**: https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
 - **Triangle** - A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator by Jonathan Richard Shewchuk: http://www.cs.cmu.edu/~quake/triangle.html
-- **Collision Detection on the GPU**: https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/ 
