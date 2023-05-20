@@ -21,3 +21,4 @@
 - **Triangle** - A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator by Jonathan Richard Shewchuk: http://www.cs.cmu.edu/~quake/triangle.html
 - **GPU Architecture**: https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/
 - **The Missing Semester of Your CS Education**: https://missing.csail.mit.edu/
+- **Use The Index Luke** - SQL Indexing and Tuning: https://use-the-index-luke.com/
