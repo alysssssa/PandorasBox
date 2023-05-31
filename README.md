@@ -5,6 +5,7 @@
 - **Ray Tracing in One Weekend** by Peter Shirley: https://raytracing.github.io/
 - **The Graphics Codex**: http://graphicscodex.com/
 - **ACM Transactions on Graphics** resources: https://dl.acm.org/journal/tog/bib-look
+- https://learnopengl.com/
 
 #### Geometry processing:
 - **Polygon Mesh Processing** by Mario Botsch et al.: http://www.pmp-book.org/
