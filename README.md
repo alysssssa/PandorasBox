@@ -1,6 +1,9 @@
 ### Pandora's Box
 ---
 
+#### ACM Seminal Works: 
+https://dl.acm.org/collections/acm-seminal-works
+
 #### Graphics:
 - **Ray Tracing in One Weekend** by Peter Shirley: https://raytracing.github.io/
 - **The Graphics Codex**: http://graphicscodex.com/
