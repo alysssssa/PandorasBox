@@ -15,6 +15,7 @@ https://dl.acm.org/collections/acm-seminal-works
 - **Polygon Mesh Processing** by Mario Botsch et al.: http://www.pmp-book.org/
 - **SGP Summer School Presentations** on geometry processing: http://school.geometryprocessing.org/index.html
 - **Discrete Differential Geometry** by Keenan Crane: https://brickisland.net/DDGSpring2022/calendar/
+- **Shape Analysis**: https://groups.csail.mit.edu/gdpgroup/68410_spring_2023.html#
 
 #### Topology:
 - **One-Dimensional Computational Topology** by Jeff Erickson: http://jeffe.cs.illinois.edu/teaching/comptop/2023/schedule.html
