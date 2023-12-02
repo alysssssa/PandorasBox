@@ -30,3 +30,4 @@ https://dl.acm.org/collections/acm-seminal-works
 - **Use The Index Luke** - SQL Indexing and Tuning: https://use-the-index-luke.com/
 - **Onboarding floating-point**: https://www.altdevarts.com/p/onboarding-floating-point
 - **Floating point visually explained**: https://fabiensanglard.net/floating_point_visually_explained/
+- **Matrix Calculus**: https://www.matrixcalculus.org/matrixCalculus
