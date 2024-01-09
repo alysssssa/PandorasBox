@@ -10,6 +10,7 @@ https://dl.acm.org/collections/acm-seminal-works
 - **ACM Transactions on Graphics** resources: https://dl.acm.org/journal/tog/bib-look
 - https://learnopengl.com/
 - https://graphics.pixar.com/library/
+- **Whirlwind Introduction to Computer Graphics**: https://web.engr.oregonstate.edu/~mjb/whirlwind/
 
 #### Geometry processing:
 - **Polygon Mesh Processing** by Mario Botsch et al.: http://www.pmp-book.org/
