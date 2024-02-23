@@ -32,3 +32,4 @@ https://dl.acm.org/collections/acm-seminal-works
 - **Onboarding floating-point**: https://www.altdevarts.com/p/onboarding-floating-point
 - **Floating point visually explained**: https://fabiensanglard.net/floating_point_visually_explained/
 - **Matrix Calculus**: https://www.matrixcalculus.org/matrixCalculus
+- **Nature of Code**: https://natureofcode.com/
